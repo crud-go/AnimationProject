@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sakura</string>
+
+    <string name="info">本app的资源都来自樱花动漫，切勿用作商业用途，有任何法律责任作者均不负责。本App是用Kotlin语言基于Jsoup爬虫编写.App中仍然存在许多BUG例如1.当动漫的集数超过80集会解析失败闪退。但有些资源无法播放是网站本身问题并不是App的锅,还有一件事这个App花了一个月时间制作而且没有混淆加密，不要破解。最后留个QQ783859431（:
+
+
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
